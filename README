@@ -1,3 +1,6 @@
-This is my first repo
-This is just a mere branch of my final year project!
-This is the third changes to be committed to this file. I hope it merges without errors!
+Urban traffic control has been a problem to must societies and most traffic light systems nowadays are time based system i.e. 
+they are program in such a way that a fixed amount of time is allocated to open a given road direction after which the 
+direction is closed and another direction open for the same fixed amount of time and the process continues. With this time 
+based system, these problems now arises: What If traffic is flowing from one direction than the other at a particular time? 
+Or better still, what if one direction is congested and the other direction is completely empty? Or what if an emergency 
+vehicle is coming? With these questions, we see that the time based traffic light system is inefficient and needs improvements. There is need for a system that will increase the efficiency of the road and as well reduce fuel consumption by cars at road junctions. The Smart Traffic Light System (STLS) solves this problem by detecting the road that has traffic congestion or emergency vehicles and giving it green light priority. This system uses IR (Infra-Red) sensors to detect the road that has traffic. In order to achieve this, these IR sensors are place on both sides of the road and connected to a micro controller that is program to respond to signals from the various sensors.
